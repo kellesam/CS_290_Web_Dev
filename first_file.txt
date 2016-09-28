@@ -1,3 +1,5 @@
 Added the first file to the repo.
 
 Edited during the branch.
+
+Edited after merging branch into master.
